@@ -14,7 +14,7 @@
 
 ## 规则列表
 
-[![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png?1947)](https://gecko.website/register?aff=209)
+![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png?1985)
 
 规则 | 规定代理的网站 | 规定直连的网站 
 --- | ----------- | ------------- 
@@ -64,11 +64,11 @@
 
 ## 相关推荐
 
-[**壁虎翻墙网 :100:**](https://gecko.website/register?aff=209)
+[**功夫翻墙网**](https://across-gfw.com/register?aff=5150)
 
-这是我所选择的服务器提供商，稳定、速度快、价格便宜，新用户可以免费试用保证满意。	
+我所选择的节点提供商。稳定、速度快、价格适中。节点遍布全球，可使用 Netflix，亦提供翻墙回国节点。
 
-欢迎大家使用我的推广链接前去注册。
+欢迎大家通过我的邀请链接前去使用。
 
 
 [**AppleDNS**](https://github.com/gongjianhui/AppleDNS)
@@ -83,7 +83,9 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 
 **<https://hzy.pw/>**
 
-我是一名大学生，沉迷技术无法自拔。这是我的个人博客，欢迎来逛逛~
+我是一名大学生，沉迷技术无法自拔。这是我的个人博客，欢迎来逛逛。
+
+PS：广告位欢迎与我联系~
 
 
 ## 问题反馈
